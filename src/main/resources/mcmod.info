@@ -1,0 +1,16 @@
+[
+{
+  "modid": "me.dbstudios.solusrpg",
+  "name": "SolusRpg",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tyler Lartonoix"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
